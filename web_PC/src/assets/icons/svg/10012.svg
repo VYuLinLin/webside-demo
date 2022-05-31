@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="22" rx="1"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="褐色版" transform="translate(-1256.000000, -2065.000000)">
+            <g id="编组-4" transform="translate(1130.000000, 2045.000000)">
+                <g id="10012" transform="translate(126.000000, 20.000000)">
+                    <circle class="svg-theme-color-fill" fill="#CDA177" cx="24" cy="24" r="24"></circle>
+                    <g id="Clipped" transform="translate(12.000000, 13.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="矩形"></g>
+                        <rect id="矩形" stroke="#FFFFFF" stroke-width="4" mask="url(#mask-2)" x="0" y="0" width="24" height="22" rx="1"></rect>
+                    </g>
+                    <path d="M13,19.5 L23.5858,19.5 C23.851,19.5 24.1054,19.39464 24.2929,19.20711 L29.5,14" id="路径" stroke="#FFFFFF" stroke-width="2"></path>
+                    <circle id="椭圆形" fill="#FFFFFF" fill-rule="nonzero" cx="15.75" cy="16.75" r="1"></circle>
+                    <circle id="椭圆形" fill="#FFFFFF" fill-rule="nonzero" cx="18.75" cy="16.75" r="1"></circle>
+                    <circle id="椭圆形" fill="#FFFFFF" fill-rule="nonzero" cx="21.75" cy="16.75" r="1"></circle>
+                    <path d="M24.8537,22.86 L24.8537,27.16 C24.8537,28.06 24.597,28.7767 24.0837,29.31 C23.577,29.8367 22.807,30.1 21.77367,30.1 C20.78701,30.1 20.03367,29.85 19.51367,29.35 C19.00034,28.8433 18.74367,28.1267 18.74367,27.2 L18.74367,22.86 L20.68367,22.86 L20.68367,27.05 C20.68367,27.5567 20.77701,27.9233 20.96367,28.15 C21.15701,28.3767 21.43701,28.49 21.80367,28.49 C22.197,28.49 22.4803,28.3767 22.6537,28.15 C22.8337,27.9167 22.9237,27.5467 22.9237,27.04 L22.9237,22.86 L24.8537,22.86 Z M29.642,30 L25.922,30 L25.922,28.9 L26.812,28.56 L26.812,24.29 L25.922,23.96 L25.922,22.86 L29.642,22.86 L29.642,23.96 L28.752,24.29 L28.752,28.56 L29.642,28.9 L29.642,30 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
